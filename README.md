@@ -10,8 +10,8 @@
   
   ##
  
-<div> 
-  <a href = "mailto:fulimirani@gmail.com" style = 'width:50%'><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div  style="width: 100%"> 
+  <a href = "mailto:fulimirani@gmail.com" style = 'width:50%'><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="width: 100px"></a>
   <a href="https://www.linkedin.com/in/joaovitorfaria" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
